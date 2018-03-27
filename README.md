@@ -1,6 +1,10 @@
 # Proj2-Auto
 An Auto I/O script for Proj2
 
+*Note:* This script does not calculate the score! It simply saves your copy and paste time.
+
+*Note:* The testCases are in test.txt and it doesn't contain all the cases!
+
 ### UNIX:
 1. Change directory (`cd`) to the student submission folder
 
@@ -14,5 +18,3 @@ An Auto I/O script for Proj2
 ```bash
 > chmod 777 autograde.sh
 ```
-
-*Note:* The testCases are in test.txt and they don't contain all the cases!
