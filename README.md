@@ -9,7 +9,7 @@ An Auto I/O script for Proj2
 
 - **Since the I/O format is not specified, this may not work on all projects!**
 
-### UNIX:
+## UNIX:
 1. Change directory (`cd`) to the student submission folder
 
 2. `./autograde.sh`
