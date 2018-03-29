@@ -1,9 +1,13 @@
 # Proj2-Auto
 An Auto I/O script for Proj2
 
-**Note: This script does not calculate the score! It simply saves your copy and paste time.**
+## Warning:
 
-**Note: The testCases are in test.txt and it doesn't contain all the cases!**
+- **This script does not calculate the score! It simply saves your compile, copy and paste time.**
+
+- **The testCases are in test.txt and it doesn't contain all the cases!**
+
+- **Since the I/O format is not specified, this may not work on all projects!**
 
 ### UNIX:
 1. Change directory (`cd`) to the student submission folder
