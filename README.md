@@ -20,5 +20,5 @@ An Auto I/O script for Proj2
 
 *Note:* If your terminal says permission denied, try changing the permission then run again:
 ```bash
-> chmod 777 autograde.sh
+> chmod +x auto.sh
 ```
